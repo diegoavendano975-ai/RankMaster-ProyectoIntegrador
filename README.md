@@ -1,4 +1,4 @@
-# RankMaster-ProyectoIntegrador
+# RankMaste ProyectoIntegrador
 Integrante
 
 Diego Andrés Avendaño Zambrano
